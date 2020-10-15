@@ -10,3 +10,6 @@
 2. CREATE TABLE "table_name" - Create a table in a database.
 3. INSERT INTO table_name
 VALUES (value_1, value_2,....)
+
+
+[<===BACK](README.MD)
